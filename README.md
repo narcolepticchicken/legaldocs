@@ -1,5 +1,5 @@
 # legaldocs
-Various Legal Docs
+Various Legal Docs and Legal Things
 
 DISCLAIMERS FOLLOW: Please review and be advised of the following:
 
