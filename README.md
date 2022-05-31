@@ -3,7 +3,7 @@ Various Legal Docs and Legal Things
 
 DISCLAIMERS FOLLOW: Please review and be advised of the following:
 
-I am a lawyer admitted to practice in Arizona.  Look, buddy. I know about the law and the various other lawerings. I'm educated. Well versed in bird law. 
+I am a lawyer admitted to practice in Arizona. I know about the law and the various other lawerings. I'm educated. Well versed in bird law. 
 
 DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP
 
