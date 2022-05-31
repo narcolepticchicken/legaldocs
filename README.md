@@ -3,8 +3,7 @@ Various Legal Docs and Legal Things
 
 DISCLAIMERS FOLLOW: Please review and be advised of the following:
 
-I am a lawyer admitted to practice in Arizona.
-
+I am a lawyer admitted to practice in Arizona.  Look, buddy. I know about the law and the various other lawerings. I'm educated. Well versed in bird law. 
 DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP
 
 Unless we have entered into a written engagement letter providing for paid legal services, I am not your lawyer and do not represent you or your interests and, in each case, such representation is qualified by any limitations set forth in such engagement letter, including with respect to scope.
