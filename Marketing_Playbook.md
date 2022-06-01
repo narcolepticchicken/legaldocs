@@ -1,6 +1,6 @@
 MARKETING PLAYBOOK
 
-We made this Advertising, Marketing, and Communications Playbook to provide steps and guidelines to ensure legal compliance for [INSERT NAME OF COMPANY]("Company") communications content and strategies. This document is intended to be company-wide and implemented for any communications with anyone outside of the company, whether it be a social media post, a speaking engagement at a conference, or a personal conversation with a potential partner. 
+We made this Advertising, Marketing, and Communications Playbook to provide steps and guidelines to ensure legal compliance for \[INSERT NAME OF COMPANY]("Company") communications content and strategies. This document is intended to be company-wide and implemented for any communications with anyone outside of the company, whether it be a social media post, a speaking engagement at a conference, or a personal conversation with a potential partner. 
 
 For anyone publishing content and/or facing the general public, it is important to be careful what you say as to not inadvertently create issues for the Company. To clarify, statements about the Company may prove volatile for widespread adoption of the COMPANY platform or can create legal problems.  It is also important to remember that there may be laws or contracts that prohibit us from making certain representations or disclosures. Accordingly, anyone who wants to make public statements related to the Company and/or the Company’s business should follow the below policies and procedures. 
 Policy.
