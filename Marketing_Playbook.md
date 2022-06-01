@@ -5,7 +5,7 @@ We made this Advertising, Marketing, and Communications Playbook to provide step
 For anyone publishing content and/or facing the general public, it is important to be careful what you say as to not inadvertently create issues for the Company. To clarify, statements about the Company may prove volatile for widespread adoption of the COMPANY platform or can create legal problems.  It is also important to remember that there may be laws or contracts that prohibit us from making certain representations or disclosures. Accordingly, anyone who wants to make public statements related to the Company and/or the Company’s business should follow the below policies and procedures. 
 Policy.
 
-The overarching policy is simple:
+## The overarching policy is simple:
 
 - Do not, intentionally, negligently, or recklessly, make any false or misleading representations of fact or any such omissions; and
 
@@ -16,7 +16,7 @@ For example, a team member may be speaking at a conference and when asked about 
 
 Thus, the below procedures are in place to minimize information asymmetry and provide guidelines that will enable team members to operate a little more autonomously in making public statements.
 
-Prohibited Statements
+## Prohibited Statements
 
 As a general policy, the following statements are prohibited unless expressly approved by [INSERT RESPONSIBLE PARTY HERE]:
 Do NOT make any representations regarding the value of the token.
@@ -25,13 +25,13 @@ Do NOT commit the company to any obligations, except as otherwise approved by th
 
 Do NOT make statements trashing or discussing the business of competitors.
 
-Procedures
+## Procedures
 
-Approval Guidelines
+### Approval Guidelines
 
 In general, anyone making any public statement should consider the content of the statement and ensure its accuracy, its need for publication, and whether such statement implicates any legal concerns. The below contains the types of statements that may be made without approval, with approval from department heads, and with approval from Legal.
 
-No Approval Needed
+### No Approval Needed
 
 Statements regarding the blockchain and/or __________ industry generally. For example, an article about how ___________________.
 
@@ -41,7 +41,7 @@ Statements that generally describe the goals of the Company. For example, statem
 
 Statements regarding information already publicly known that does not negatively impact the Company.
 
-Approval Needed by Department Heads
+### Approval Needed by Department Heads
 
 Factual statements regarding the intent of the Company, if not previously approved.
 
@@ -49,7 +49,7 @@ Factual statements regarding the development of certain company verticals. For e
 
 Statements that include peoples’ or companies’ names and/or relate to their business. Seek approval from the relevant department.
 
-Approval Needed by Legal
+### Approval Needed by Legal
 
 Definitive statements about the Company that relate to its financial health, legal compliance, status of the token as a utility token and/or securities, or any other definitive statements even closely implicating legal compliance.
 
@@ -61,7 +61,7 @@ Definitive statements of any potential exchange listings or other major business
 
 Statements regarding potential or current partnerships.
 
-Checklist
+## Checklist
 
 In addition to the approval guidelines, anyone making a public statement should check such statement for the following:
 
