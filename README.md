@@ -28,4 +28,4 @@ I currently engage in autonomous lawyering in the following communities and have
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.
 
-Last updated: 27 May 2022
+Last updated: 01 June 2022
