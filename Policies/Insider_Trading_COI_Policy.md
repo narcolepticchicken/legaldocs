@@ -1,4 +1,4 @@
-> Disclaimer: Depending on your situatoin you could add informed consent language at the end with a signatgure block.  At the very least, make sure the individual has read and acknowledged it. You can also refer to any handbook or employment agreement provisions that are applicable. Use of this is governed by my disclaimers.  
+> Disclaimer: Depending on your situation you could add informed consent language at the end with a signature block.  At the very least, make sure the individual has read and acknowledged it. You can also refer to any handbook or employment agreement provisions that are applicable. Use of this is governed by my disclaimers.  
 
 ## Purpose
 
