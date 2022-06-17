@@ -1,4 +1,4 @@
-> There are several areas to fill in, including the date, name of CompanyA, CompanyB, as well as the jurisdiction and choice of law in 6.
+
 
 # Mutual Non-Disclosure Agreement
 
