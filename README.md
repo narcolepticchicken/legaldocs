@@ -1,6 +1,10 @@
 # legaldocs
 Various Legal Docs and Legal Things
 
+* Agreements - NDAs, Contracts, etc.
+* Playbooks - Processes and process maps  
+* Policies - Insider Trading, etc. 
+
 > DISCLAIMERS FOLLOW: Please review and be advised of the following:
 
 I am a lawyer admitted to practice in Arizona. I know about the law and the various other lawerings. 
