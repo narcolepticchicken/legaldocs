@@ -1,3 +1,5 @@
+> There are several areas to fill in, including the date, name of CompanyA, CompanyB, as well as the jurisdiction and choice of law in 6.
+
 # Mutual Non-Disclosure Agreement
 
 This Mutual Non-Disclosure Agreement (“Agreement”) is made and entered into, effective as of this _______ day of _________, 20____ (the “Effective Date”), by and between __________________ and its owner(s), and any subsidiaries (collectively or individually “COMPANY-A”); and ____________________________ and its parent company, owners, and any subsidiaries (collectively or individually “COMPANY-B”) (collectively, the “Parties”).
